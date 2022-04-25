@@ -1,3 +1,6 @@
+Project Description
+* Migrated and containerized a RESTful API web application to Spring Boot deployed using Docker-Compose. Application logs are exported using Promtail to Loki and monitored through a Grafana dashboard.
+
 Requirements phase 1
 * Spring Boot
 * Spring WebMVC
